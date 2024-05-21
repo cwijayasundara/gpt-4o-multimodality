@@ -1,0 +1,6 @@
+langchain-openai
+openai
+python-dotenv
+opencv-python
+moviepy
+pytube
